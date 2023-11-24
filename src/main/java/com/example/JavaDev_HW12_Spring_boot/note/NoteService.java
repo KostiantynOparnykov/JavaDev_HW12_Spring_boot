@@ -1,6 +1,6 @@
-package com.example.dao.note;
+package com.example.JavaDev_HW12_Spring_boot.note;
 
-import com.example.entities.Note;
+import com.example.JavaDev_HW12_Spring_boot.entities.Note;
 import org.springframework.stereotype.Service;
 
 import java.util.*;

@@ -1,4 +1,4 @@
-package com.example.entities;
+package com.example.JavaDev_HW12_Spring_boot.entities;
 
 
 import lombok.*;
